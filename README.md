@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prasanna1610
 - 👀 I’m interested in Data Science and Machine learning.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently pursuing 3rd Year B-Tech in SRMIST KTR campus.
 - 💞️ I’m looking to collaborate on Data Science or Machine Learning projects.
 - 📫 How to reach me ... psai1610@gmail.com
